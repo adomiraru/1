@@ -1,2 +1,1 @@
-# 1
-Generate a random quadratic function in Python
+Anything is fine except to make it look like you made it
